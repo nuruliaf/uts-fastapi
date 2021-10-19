@@ -22,6 +22,7 @@ ecdsa==0.17.0
 entrypoints==0.3
 fastapi==0.70.0
 filelock==3.0.12
+gunicorn==20.1.0
 h11==0.12.0
 h2==4.1.0
 hpack==4.0.0
