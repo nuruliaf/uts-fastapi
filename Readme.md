@@ -5,9 +5,8 @@ Tugas   : Autentifikasi FastAPI untuk operasi Create (Add Menu), Read (Read Menu
 Cara Compile di VSCode: 
 1. Masuk menu Terminal > New Terminal
 2. Pilih terminal 'wsl', pastikan direktori file yang dituju sudah benar
-3. $ service venv/bin/activate
-4. $ python main.py 
-5. click link http://127.0.0.1:8000/docs
+3. $ python3 run.py
+4. click link http://127.0.0.1:8081/docs
 
 Deskripsi Singkat Tugas
 Authentikasi FastAPI
